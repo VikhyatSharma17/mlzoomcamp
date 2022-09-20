@@ -2,3 +2,4 @@ This repository is created for showing the progress and homework submission for 
 
 Homework Submissions
 - [Week 1](./Week1/homework.ipynb)
+- [Week 2](./Week2/homework_sol.ipynb)
